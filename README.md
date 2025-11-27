@@ -14,6 +14,19 @@
 
 - [Researcher](https://github.com/zhu-minjun/Researcher) ![](https://img.shields.io/github/stars/zhu-minjun/Researcher.svg) - AI-powered research assistant for automated research workflows.
 
+## Commercial Platforms vs current OSS frameworks
+
+- [AI Researcher](https://ai-researcher.net/)
+- [aiXiv](https://aixiv.org/) - Next-generation open access ecosystem for AI scientists [[Paper]](https://arxiv.org/abs/2508.15126)
+- [AiraXiv](https://airaxiv.com/)
+- [DeepScientist](http://deepscientist.cc/)
+- [Elicit](https://elicit.org/)
+- [Consensus](https://consensus.app/)
+- [SciSpace](https://scispace.com/)
+- [Wolfram Research Assistant](https://www.wolfram.com/research-assistant/)
+- [IBM Watson Discovery](https://www.ibm.com/cloud/watson-discovery)
+- [Overleaf AI](https://www.overleaf.com)
+
 ## Contributing
 
 Contributions are welcome! Please feel free to submit a pull request to add more autonomous AI researcher systems to this awesome list.
