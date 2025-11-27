@@ -4,7 +4,7 @@
 
 [Autonomous researchers](https://edisonscientific.com/articles/announcing-kosmos) represent a new paradigm in scientific discovery where AI systems can perform the complete research lifecycle - from hypothesis generation to peer review - with minimal or no human intervention. These systems leverage large language models and multi-agent frameworks to accelerate scientific progress across multiple domains.
 
-## Open-source Frameworks
+## Open-source Tools
 
 - [AI-Scientist](https://github.com/SakanaAI/AI-Scientist) ![](https://img.shields.io/github/stars/SakanaAI/AI-Scientist.svg) - First comprehensive system for fully automatic scientific discovery. Enables LLMs to autonomously generate research ideas, conduct experiments, and write academic papers across multiple domains.
 - [agentic-data-scientist](https://github.com/K-Dense-AI/agentic-data-scientist) ![](https://img.shields.io/github/stars/K-Dense-AI/agentic-data-scientist.svg) - Multi-agent framework for data science workflows built on Google's Agent Development Kit and Claude Agent SDK. Separates planning from execution with continuous validation and adaptive approach.
@@ -26,4 +26,4 @@
 
 ## Contributing
 
-Contributions are welcome! Please feel free to submit a pull request to add more autonomous AI researcher systems to this awesome list.
+Contributions are welcome! Please feel free to submit a pull request to add more autonomous AI researcher frameworks to this awesome list.
