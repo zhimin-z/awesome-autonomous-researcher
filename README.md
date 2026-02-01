@@ -12,6 +12,7 @@
 - [aiXiv](https://github.com/aixiv-org/aiXiv) ![](https://img.shields.io/github/stars/aixiv-org/aiXiv.svg) - Multi-agent preprint server for human, AI and robot scientists with dual-track review and auto-agents ecosystem.
 - [auto-research](https://github.com/openags/auto-research) ![](https://img.shields.io/github/stars/openags/auto-research.svg) - Autonomous generalist scientist framework for fully automated research agents from literature reviews to experiments and writing.
 - [autora](https://github.com/autoresearch/autora) ![](https://img.shields.io/github/stars/autoresearch/autora.svg) - Automated research assistant for closed-loop empirical research with autonomous experiment design and data analysis.
+- [claude-scientific-skills](https://github.com/K-Dense-AI/claude-scientific-skills) ![](https://img.shields.io/github/stars/K-Dense-AI/claude-scientific-skills.svg) - Comprehensive collection of 140 ready-to-use scientific skills for Claude across biology, chemistry, medicine, and more.
 - [Curie](https://github.com/Just-Curieous/Curie) ![](https://img.shields.io/github/stars/Just-Curieous/Curie.svg) - AI-agent framework for automated and rigorous scientific experimentation with end-to-end automation from hypothesis formulation to result interpretation.
 - [Researcher](https://github.com/zhu-minjun/Researcher) ![](https://img.shields.io/github/stars/zhu-minjun/Researcher.svg) - AI-powered research assistant for automated research workflows.
 
