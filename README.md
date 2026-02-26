@@ -21,6 +21,7 @@
 
 - [AI Researcher](https://ai-researcher.net) - AI-powered research assistant for literature review and research synthesis.
 - [AiraXiv](https://airaxiv.com) - AI research platform for automated paper discovery and analysis.
+- [Analemma](https://analemma.ai/fars) - Fully autonomous research system for end-to-end scientific research automation.
 - [Consensus](https://consensus.app) - AI search engine that finds and summarizes scientific research papers.
 - [DeepScientist](http://deepscientist.cc) - AI platform for accelerating scientific research and discovery.
 - [Edison Scientific](https://edisonscientific.com) - Autonomous AI scientist for end-to-end research automation.
