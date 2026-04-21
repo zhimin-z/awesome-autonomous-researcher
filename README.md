@@ -73,7 +73,6 @@ Agent-native research tools built on or inspired by the OpenClaw framework, cove
 
 - [LabClaw](https://github.com/wu-yc/LabClaw) ![](https://img.shields.io/github/stars/wu-yc/LabClaw.svg) - 240 OpenClaw skills for biology, pharmacology, medicine, literature, and visualization.
 - [OpenClaw-Medical-Skills](https://github.com/FreedomIntelligence/OpenClaw-Medical-Skills) ![](https://img.shields.io/github/stars/FreedomIntelligence/OpenClaw-Medical-Skills.svg) - 869 medical/biomedical skills spanning clinical, genomics, and drug discovery domains.
-- [PaperClaw](https://github.com/meowscles69/PaperClaw) ![](https://img.shields.io/github/stars/meowscles69/PaperClaw.svg) - 27 skills for academic teams covering literature reviews, hypothesis versioning, grant writing, and knowledge handoffs.
 - [SkillNet](https://github.com/zjunlp/SkillNet) ![](https://img.shields.io/github/stars/zjunlp/SkillNet.svg) - Skill creation, evaluation, connection, and discovery infrastructure that searches 300k+ community skills.
 
 ## Commercial Platforms
