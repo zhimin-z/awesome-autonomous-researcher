@@ -15,7 +15,6 @@ Autonomous systems that cover the full research lifecycle from ideation through 
 - [AgentLaboratory](https://github.com/SamuelSchmidgall/AgentLaboratory) ![](https://img.shields.io/github/stars/SamuelSchmidgall/AgentLaboratory.svg) - End-to-end autonomous research workflow using LLM agents to assist with literature reviews, experiments, and report writing.
 - [AI-Researcher](https://github.com/HKUDS/AI-Researcher) ![](https://img.shields.io/github/stars/HKUDS/AI-Researcher.svg) - Autonomous scientific innovation system with dedicated research and paper agents for idea generation, experiment execution, and paper writing.
 - [ARIS](https://github.com/wanshuiyin/Auto-claude-code-research-in-sleep) ![](https://img.shields.io/github/stars/wanshuiyin/Auto-claude-code-research-in-sleep.svg) - Lightweight Markdown-only research workflow with cross-model review loops, idea discovery, and experiment automation.
-- [OmegaWiki](https://github.com/skyllwt/OmegaWiki) ![](https://img.shields.io/github/stars/skyllwt/OmegaWiki.svg) - Wiki-centric full-lifecycle research platform on Claude Code with 20+ skills spanning literature ingest, ideation, experiment design/run/eval, and paper writing.
 - [auto-research](https://github.com/openags/auto-research) ![](https://img.shields.io/github/stars/openags/auto-research.svg) - Autonomous generalist scientist framework for fully automated research agents from literature reviews to experiments and writing.
 - [autoresearch](https://github.com/karpathy/autoresearch) ![](https://img.shields.io/github/stars/karpathy/autoresearch.svg) - Karpathy's autonomous overnight research loop where agents iteratively edit/train/evaluate a compact LLM setup under a fixed 5-minute experiment budget.
 - [AutoResearchClaw](https://github.com/aiming-lab/AutoResearchClaw) ![](https://img.shields.io/github/stars/aiming-lab/AutoResearchClaw.svg) - Fully autonomous & self-evolving research from idea to paper using a multi-agent debate pipeline with self-healing and citation verification.
@@ -60,6 +59,7 @@ Educational resources for learning autonomous research concepts, tools, and prac
 Integrated platforms that host AI agents for collaborative research, publishing, and scientific workflows.
 
 - [aiXiv](https://www.aixiv.co) ![](https://img.shields.io/github/stars/aixiv-org/aixiv-core.svg) - Multi-agent preprint server for human, AI and robot scientists with dual-track review and auto-agents ecosystem.
+- [OmegaWiki](https://github.com/skyllwt/OmegaWiki) ![](https://img.shields.io/github/stars/skyllwt/OmegaWiki.svg) - Agentic AI research platform that automates the full pipeline from paper ingestion and knowledge management to manuscript drafting.
 
 ### Benchmarks & Evaluation
 
