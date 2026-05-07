@@ -28,8 +28,8 @@ Autonomous systems that cover the full research lifecycle from ideation through 
 
 Research-focused agents for iterative retrieval, synthesis, and report generation on complex questions.
 
-- [open_deep_research](https://github.com/langchain-ai/open_deep_research) ![](https://img.shields.io/github/stars/langchain-ai/open_deep_research.svg) - Fully open-source deep research agent with multi-model support, multi-search API, MCP integration, and built-in report generation.
 - [DeepResearch](https://github.com/Alibaba-NLP/DeepResearch) ![](https://img.shields.io/github/stars/Alibaba-NLP/DeepResearch.svg) - Tongyi Deep Research — iterative retrieval-augmented research agent for complex multi-hop questions.
+- [Open Deep Research](https://github.com/langchain-ai/open_deep_research) ![](https://img.shields.io/github/stars/langchain-ai/open_deep_research.svg) - Fully open-source deep research agent with multi-model support, multi-search API, MCP integration, and built-in report generation.
 
 ### Experiment & Data Automation
 
