@@ -93,7 +93,6 @@ Reusable OpenClaw skill ecosystems for domain expertise, automation, and tool au
 
 - [LabClaw](https://github.com/wu-yc/LabClaw) ![](https://img.shields.io/github/stars/wu-yc/LabClaw.svg?cacheSeconds=86400) - 240 OpenClaw skills for biology, pharmacology, medicine, literature, and visualization.
 - [OpenClaw-Medical-Skills](https://github.com/FreedomIntelligence/OpenClaw-Medical-Skills) ![](https://img.shields.io/github/stars/FreedomIntelligence/OpenClaw-Medical-Skills.svg?cacheSeconds=86400) - 869 medical/biomedical skills spanning clinical, genomics, and drug discovery domains.
-- [SkillNet](https://github.com/zjunlp/SkillNet) ![](https://img.shields.io/github/stars/zjunlp/SkillNet.svg?cacheSeconds=86400) - Skill creation, evaluation, connection, and discovery infrastructure that searches 300k+ community skills.
 
 ## Commercial Platforms
 
