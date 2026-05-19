@@ -23,6 +23,7 @@ Autonomous systems that cover the full research lifecycle from ideation through 
 - [nanoresearch](https://github.com/saadmsft/nanoresearch) ![](https://img.shields.io/github/stars/saadmsft/nanoresearch.svg?cacheSeconds=86400) - Tri-level co-evolving multi-agent research automation system with chat-style interaction and field-agnostic workflows.
 - [OmniScientist](https://github.com/tsinghua-fib-lab/OmniScientist) ![](https://img.shields.io/github/stars/tsinghua-fib-lab/OmniScientist.svg?cacheSeconds=86400) - AI Scientist ecosystem covering idea generation, experiment design, and paper writing as a holistic blueprint for autonomous research.
 - [pi-autoresearch](https://github.com/davebcn87/pi-autoresearch) ![](https://img.shields.io/github/stars/davebcn87/pi-autoresearch.svg?cacheSeconds=86400) - Extension for the [pi](https://pi.dev) agent that enables autonomous experiment loops to benchmark ideas, keep improvements, and revert regressions.
+- [QUIT](https://github.com/Mr-XcHan/QUIT) ![](https://img.shields.io/github/stars/Mr-XcHan/QUIT.svg?cacheSeconds=86400) - Human-in-the-loop research automation platform with an artifact-driven Query-Understand-Implement-Tell pipeline and optional end-to-end mode.
 - [Virtual-Scientists](https://github.com/InternScience/Virtual-Scientists) ![](https://img.shields.io/github/stars/InternScience/Virtual-Scientists.svg?cacheSeconds=86400) - ACL 2025 project featuring many-heads multi-agent scientific idea generation for diverse hypothesis exploration.
 
 ### Deep Research Agents
