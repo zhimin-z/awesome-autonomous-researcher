@@ -6,6 +6,25 @@
 
 ## Open-source Research Agents & Tools
 
+### Benchmarks & Evaluation
+
+Benchmarks and evaluation suites for measuring capabilities of autonomous research agents across tasks.
+
+- [aira-dojo](https://github.com/facebookresearch/aira-dojo) ![](https://img.shields.io/github/stars/facebookresearch/aira-dojo.svg?cacheSeconds=86400) - Meta FAIR's extensible AI research agent development and evaluation framework with isolated code execution.
+- [AIRS-Bench](https://github.com/facebookresearch/airs-bench) ![](https://img.shields.io/github/stars/facebookresearch/airs-bench.svg?cacheSeconds=86400) - Benchmark by Meta FAIR for quantifying end-to-end AI research abilities of LLM agents.
+- [BixBench](https://github.com/Future-House/BixBench) ![](https://img.shields.io/github/stars/Future-House/BixBench.svg?cacheSeconds=86400) - Benchmark for LLM-based agents on verifiable computational biology and bioinformatics tasks.
+- [DeepResearch Bench](https://github.com/Ayanami0730/deep_research_bench) ![](https://img.shields.io/github/stars/Ayanami0730/deep_research_bench.svg?cacheSeconds=86400) - Comprehensive benchmark and leaderboard for evaluating deep research agents.
+- [MLGym](https://github.com/facebookresearch/MLGym) ![](https://img.shields.io/github/stars/facebookresearch/MLGym.svg?cacheSeconds=86400) - Unified framework and benchmark by Meta FAIR for developing and evaluating AI research agents across ML tasks.
+- [ScholarEval](https://github.com/skai-research/ScholarEval) ![](https://img.shields.io/github/stars/skai-research/ScholarEval.svg?cacheSeconds=86400) - Literature-grounded framework for evaluating research ideas with multi-dimensional quality criteria.
+- [scienceboard](https://github.com/Agni-bot/scienceboard) ![](https://img.shields.io/github/stars/Agni-bot/scienceboard.svg?cacheSeconds=86400) - VM-based benchmark for evaluating multimodal autonomous agents on realistic scientific workflows.
+
+### Deep Research Agents
+
+Research-focused agents for iterative retrieval, synthesis, and report generation on complex questions.
+
+- [DeepResearch](https://github.com/Alibaba-NLP/DeepResearch) ![](https://img.shields.io/github/stars/Alibaba-NLP/DeepResearch.svg?cacheSeconds=86400) - Tongyi Deep Research — iterative retrieval-augmented research agent for complex multi-hop questions.
+- [Open Deep Research](https://github.com/langchain-ai/open_deep_research) ![](https://img.shields.io/github/stars/langchain-ai/open_deep_research.svg?cacheSeconds=86400) - Fully open-source deep research agent with multi-model support, multi-search API, MCP integration, and built-in report generation.
+
 ### End-to-End Research Systems
 
 Autonomous systems that cover the full research lifecycle from ideation through experimentation and paper writing.
@@ -26,22 +45,6 @@ Autonomous systems that cover the full research lifecycle from ideation through 
 - [QUIT](https://github.com/Mr-XcHan/QUIT) ![](https://img.shields.io/github/stars/Mr-XcHan/QUIT.svg?cacheSeconds=86400) - Human-in-the-loop research automation platform with an artifact-driven Query-Understand-Implement-Tell pipeline and optional end-to-end mode.
 - [Virtual-Scientists](https://github.com/InternScience/Virtual-Scientists) ![](https://img.shields.io/github/stars/InternScience/Virtual-Scientists.svg?cacheSeconds=86400) - ACL 2025 project featuring many-heads multi-agent scientific idea generation for diverse hypothesis exploration.
 
-### Deep Research Agents
-
-Research-focused agents for iterative retrieval, synthesis, and report generation on complex questions.
-
-- [DeepResearch](https://github.com/Alibaba-NLP/DeepResearch) ![](https://img.shields.io/github/stars/Alibaba-NLP/DeepResearch.svg?cacheSeconds=86400) - Tongyi Deep Research — iterative retrieval-augmented research agent for complex multi-hop questions.
-- [Open Deep Research](https://github.com/langchain-ai/open_deep_research) ![](https://img.shields.io/github/stars/langchain-ai/open_deep_research.svg?cacheSeconds=86400) - Fully open-source deep research agent with multi-model support, multi-search API, MCP integration, and built-in report generation.
-
-### RL Training Infrastructure
-
-Core RL environments and training infrastructure for building and scaling autonomous research agents.
-
-- [aviary](https://github.com/Future-House/aviary) ![](https://img.shields.io/github/stars/Future-House/aviary.svg?cacheSeconds=86400) - Language-agent gym with challenging scientific tasks and research-oriented environments.
-- [Gym](https://github.com/NVIDIA-NeMo/Gym) ![](https://img.shields.io/github/stars/NVIDIA-NeMo/Gym.svg?cacheSeconds=86400) - NVIDIA NeMo environment library for evaluating and improving models/agents with multiple backend support.
-- [NVIDIA NeMo RL](https://github.com/NVIDIA-NeMo/RL) ![](https://img.shields.io/github/stars/NVIDIA-NeMo/RL.svg?cacheSeconds=86400) - Scalable RL toolkit for efficient model reinforcement, including GRPO and large-scale training workflows.
-- [tiny-scientist](https://github.com/ulab-uiuc/tiny-scientist) ![](https://img.shields.io/github/stars/ulab-uiuc/tiny-scientist.svg?cacheSeconds=86400) - Lightweight modular framework for building research agents with tool integration and controllable execution.
-
 ### Experiment & Data Automation
 
 Tools that automate experiment execution, data workflows, and closed-loop empirical research pipelines.
@@ -49,17 +52,6 @@ Tools that automate experiment execution, data workflows, and closed-loop empiri
 - [agentic-data-scientist](https://github.com/K-Dense-AI/agentic-data-scientist) ![](https://img.shields.io/github/stars/K-Dense-AI/agentic-data-scientist.svg?cacheSeconds=86400) - Multi-agent framework for data science workflows with separated planning and execution phases.
 - [autora](https://github.com/autoresearch/autora) ![](https://img.shields.io/github/stars/autoresearch/autora.svg?cacheSeconds=86400) - Automated research assistant for closed-loop empirical research with autonomous experiment design and data analysis.
 - [Simply](https://github.com/google-deepmind/simply) ![](https://img.shields.io/github/stars/google-deepmind/simply.svg?cacheSeconds=86400) - Minimal JAX research codebase by Google DeepMind designed for agents to read code, propose ideas, run experiments, and iterate.
-
-### Scientific Writing & Skills
-
-Frameworks and skill collections that support scientific writing, reasoning, and reusable research capabilities.
-
-- [claude-scientific-skills](https://github.com/K-Dense-AI/claude-scientific-skills) ![](https://img.shields.io/github/stars/K-Dense-AI/claude-scientific-skills.svg?cacheSeconds=86400) - Comprehensive collection of 140 ready-to-use scientific skills for Claude across biology, chemistry, medicine, and more.
-- [claude-scientific-writer](https://github.com/K-Dense-AI/claude-scientific-writer) ![](https://img.shields.io/github/stars/K-Dense-AI/claude-scientific-writer.svg?cacheSeconds=86400) - AI-powered scientific writing assistant for automated research paper generation and technical documentation.
-- [autoresearch-skill](https://github.com/wjgoarxiv/autoresearch-skill) ![](https://img.shields.io/github/stars/wjgoarxiv/autoresearch-skill.svg?cacheSeconds=86400) - Cross-platform LLM skill set (Claude Code/Codex/Gemini) that runs experiment-evaluate-iterate autoresearch loops from natural-language goals.
-- [FactReview](https://github.com/DEFENSE-SEU/FactReview) ![](https://img.shields.io/github/stars/DEFENSE-SEU/FactReview.svg?cacheSeconds=86400) - Evidence-grounded ML paper review system that tags claim verdicts, positions literature, and supports execution-based verification.
-- [PaperOrchestra](https://github.com/google-research/paper-orchestra) ![](https://img.shields.io/github/stars/google-research/paper-orchestra.svg?cacheSeconds=86400) - Multi-agent framework for automated research paper writing from raw ideas and experiment logs to submission-ready LaTeX drafts.
-- [Researcher](https://github.com/zhu-minjun/Researcher) ![](https://img.shields.io/github/stars/zhu-minjun/Researcher.svg?cacheSeconds=86400) - AI-powered research assistant for automated research workflows.
 
 ### Learning & Tutorials
 
@@ -74,17 +66,25 @@ Integrated platforms that host AI agents for collaborative research, publishing,
 - [aiXiv](https://www.aixiv.co) ![](https://img.shields.io/github/stars/aixiv-org/aixiv-core.svg?cacheSeconds=86400) - Multi-agent preprint server for human, AI and robot scientists with dual-track review and auto-agents ecosystem.
 - [OmegaWiki](https://github.com/skyllwt/OmegaWiki) ![](https://img.shields.io/github/stars/skyllwt/OmegaWiki.svg?cacheSeconds=86400) - Agentic AI research platform that automates the full pipeline from paper ingestion and knowledge management to manuscript drafting.
 
-### Benchmarks & Evaluation
+### RL Training Infrastructure
 
-Benchmarks and evaluation suites for measuring capabilities of autonomous research agents across tasks.
+Core RL environments and training infrastructure for building and scaling autonomous research agents.
 
-- [aira-dojo](https://github.com/facebookresearch/aira-dojo) ![](https://img.shields.io/github/stars/facebookresearch/aira-dojo.svg?cacheSeconds=86400) - Meta FAIR's extensible AI research agent development and evaluation framework with isolated code execution.
-- [AIRS-Bench](https://github.com/facebookresearch/airs-bench) ![](https://img.shields.io/github/stars/facebookresearch/airs-bench.svg?cacheSeconds=86400) - Benchmark by Meta FAIR for quantifying end-to-end AI research abilities of LLM agents.
-- [BixBench](https://github.com/Future-House/BixBench) ![](https://img.shields.io/github/stars/Future-House/BixBench.svg?cacheSeconds=86400) - Benchmark for LLM-based agents on verifiable computational biology and bioinformatics tasks.
-- [DeepResearch Bench](https://github.com/Ayanami0730/deep_research_bench) ![](https://img.shields.io/github/stars/Ayanami0730/deep_research_bench.svg?cacheSeconds=86400) - Comprehensive benchmark and leaderboard for evaluating deep research agents.
-- [MLGym](https://github.com/facebookresearch/MLGym) ![](https://img.shields.io/github/stars/facebookresearch/MLGym.svg?cacheSeconds=86400) - Unified framework and benchmark by Meta FAIR for developing and evaluating AI research agents across ML tasks.
-- [ScholarEval](https://github.com/skai-research/ScholarEval) ![](https://img.shields.io/github/stars/skai-research/ScholarEval.svg?cacheSeconds=86400) - Literature-grounded framework for evaluating research ideas with multi-dimensional quality criteria.
-- [scienceboard](https://github.com/Agni-bot/scienceboard) ![](https://img.shields.io/github/stars/Agni-bot/scienceboard.svg?cacheSeconds=86400) - VM-based benchmark for evaluating multimodal autonomous agents on realistic scientific workflows.
+- [aviary](https://github.com/Future-House/aviary) ![](https://img.shields.io/github/stars/Future-House/aviary.svg?cacheSeconds=86400) - Language-agent gym with challenging scientific tasks and research-oriented environments.
+- [Gym](https://github.com/NVIDIA-NeMo/Gym) ![](https://img.shields.io/github/stars/NVIDIA-NeMo/Gym.svg?cacheSeconds=86400) - NVIDIA NeMo environment library for evaluating and improving models/agents with multiple backend support.
+- [NVIDIA NeMo RL](https://github.com/NVIDIA-NeMo/RL) ![](https://img.shields.io/github/stars/NVIDIA-NeMo/RL.svg?cacheSeconds=86400) - Scalable RL toolkit for efficient model reinforcement, including GRPO and large-scale training workflows.
+- [tiny-scientist](https://github.com/ulab-uiuc/tiny-scientist) ![](https://img.shields.io/github/stars/ulab-uiuc/tiny-scientist.svg?cacheSeconds=86400) - Lightweight modular framework for building research agents with tool integration and controllable execution.
+
+### Scientific Writing & Skills
+
+Frameworks and skill collections that support scientific writing, reasoning, and reusable research capabilities.
+
+- [claude-scientific-skills](https://github.com/K-Dense-AI/claude-scientific-skills) ![](https://img.shields.io/github/stars/K-Dense-AI/claude-scientific-skills.svg?cacheSeconds=86400) - Comprehensive collection of 140 ready-to-use scientific skills for Claude across biology, chemistry, medicine, and more.
+- [claude-scientific-writer](https://github.com/K-Dense-AI/claude-scientific-writer) ![](https://img.shields.io/github/stars/K-Dense-AI/claude-scientific-writer.svg?cacheSeconds=86400) - AI-powered scientific writing assistant for automated research paper generation and technical documentation.
+- [autoresearch-skill](https://github.com/wjgoarxiv/autoresearch-skill) ![](https://img.shields.io/github/stars/wjgoarxiv/autoresearch-skill.svg?cacheSeconds=86400) - Cross-platform LLM skill set (Claude Code/Codex/Gemini) that runs experiment-evaluate-iterate autoresearch loops from natural-language goals.
+- [FactReview](https://github.com/DEFENSE-SEU/FactReview) ![](https://img.shields.io/github/stars/DEFENSE-SEU/FactReview.svg?cacheSeconds=86400) - Evidence-grounded ML paper review system that tags claim verdicts, positions literature, and supports execution-based verification.
+- [PaperOrchestra](https://github.com/google-research/paper-orchestra) ![](https://img.shields.io/github/stars/google-research/paper-orchestra.svg?cacheSeconds=86400) - Multi-agent framework for automated research paper writing from raw ideas and experiment logs to submission-ready LaTeX drafts.
+- [Researcher](https://github.com/zhu-minjun/Researcher) ![](https://img.shields.io/github/stars/zhu-minjun/Researcher.svg?cacheSeconds=86400) - AI-powered research assistant for automated research workflows.
 
 ## ResearchClaw & OpenClaw Ecosystem
 
