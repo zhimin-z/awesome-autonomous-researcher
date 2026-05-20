@@ -118,8 +118,7 @@ Commercial systems focused on autonomous end-to-end scientific research executio
 
 - [Analemma](https://analemma.ai/fars) - Fully autonomous research system for end-to-end scientific research automation.
 - [DeepScientist](http://deepscientist.cc) - AI platform for accelerating scientific research and discovery.
-- [Edison Scientific](https://edisonscientific.com) - Autonomous AI scientist for end-to-end research automation.
-- [Kosmos (Edison Scientific)](https://platform.edisonscientific.com) - Edison Scientific's autonomous AI scientist product for end-to-end research execution.
+- [Edison Scientific](https://edisonscientific.com) - Autonomous AI scientist platform (Kosmos) for end-to-end research automation.
 - [FutureHouse](https://www.futurehouse.org) - AI platform building autonomous systems to accelerate scientific discovery.
 
 ### Literature Discovery & Search
